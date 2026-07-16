@@ -24,6 +24,7 @@ Organized/Unorganized LeetCode Solutions which I submit
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aarracann/dsa/tree/master/0074-search-a-2d-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aarracann/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -32,5 +33,10 @@ Organized/Unorganized LeetCode Solutions which I submit
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/aarracann/dsa/tree/master/0074-search-a-2d-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aarracann/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aarracann/dsa/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
