@@ -25,6 +25,7 @@ Organized/Unorganized LeetCode Solutions which I submit
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aarracann/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aarracann/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aarracann/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -34,9 +35,15 @@ Organized/Unorganized LeetCode Solutions which I submit
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aarracann/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aarracann/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aarracann/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aarracann/dsa/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aarracann/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/aarracann/dsa/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
